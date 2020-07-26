@@ -16,7 +16,7 @@ body{
 }
 
 .box {
-	background-color: rgba(0, 0, 0, 0.8) !important;
+	background-color: rgba(0, 0, 0, 0.9) !important;
 	-webkit-backdrop-filter: blur(5px) !important;
 	backdrop-filter: blur(5px) !important;
 }
