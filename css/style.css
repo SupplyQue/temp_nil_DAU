@@ -1,3 +1,7 @@
+hr.darkmode{
+	border-top: 1px solid gray;
+}
+
 /*Fonts start*/
 @font-face{
 	font-family: sq;
